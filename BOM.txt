@@ -3,5 +3,5 @@ Arduino Nano - XX - already owned
 Servo Motor - XX - already owned
 Ultrasonic Sensor - XX - already owned
 USB-to-Micro USB cable - 1.5$
-Jump wires - 1$ 
+Jumper wires - 1$ 
 TOTAL - 2.5$
